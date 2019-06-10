@@ -1,3 +1,3 @@
 # Full Stack Challenge 2019 Web
 
-Esta es una versión para usuario de la API explicada en este [link](https://github.com/Wikkan/FullStackChallenge2019)
+This is a version for the user of the API explained in this [link](https://github.com/Wikkan/FullStackChallenge2019)
